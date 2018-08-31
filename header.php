@@ -17,7 +17,7 @@
     <!-- Hover -->
     <link href="css/hover.css" rel="stylesheet">
     
-    <!-- iHover -->
+    <!-- ag iHover -->
     <link href="css/ihover.css" rel="stylesheet">
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
